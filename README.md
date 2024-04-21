@@ -36,11 +36,9 @@ The code applies a mosaic effect to two different regions in the video frame and
     
 # Example
 
-<p align="center">
+<div align="center">
 <img src="https://github.com/DaisukeNagata/python_image_mozaic/assets/16457165/44d2613b-f726-4bf1-8590-ae69b4b3f877">
-</p>
-
-
+</div>
 
 
 
